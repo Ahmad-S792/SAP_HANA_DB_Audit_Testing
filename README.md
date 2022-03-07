@@ -10,3 +10,8 @@ Other HANA tools (e.g. JDBC, Python Drivers etc.) - [Link](https://tools.hana.on
 Download SAP HANA Database Express Edition (Virtual Machines) - [Link](https://www.sap.com/uk/products/hana/express-trial.html)
 ___
 
+How to connect for automation using "[HDBSQL](https://help.sap.com/viewer/6b94445c94ae495c83a19646e7c3fd56/LATEST/en-US/c22c67c3bb571014afebeb4a76c3d95d.html)", rather than running "SQL Scripts" one by one.
+
+___
+
+
